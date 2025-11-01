@@ -1,2 +1,3 @@
-# Feedforward-Neural-Network-CPP
-A Feedforward Neural Network made in C++, that can be imported into Python. 
+# Feedforward Neural Network CPP
+
+Empty, for now...
